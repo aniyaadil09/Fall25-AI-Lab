@@ -1,0 +1,3 @@
+Living Room, 20
+Drawing Room, 22
+Kitchen, 34

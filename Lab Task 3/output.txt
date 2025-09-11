@@ -1,0 +1,3 @@
+Living Room :	Heater turned on.
+Drawing Room :	Heater turned off.
+Kitchen :	Heater remain off
